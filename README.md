@@ -24,7 +24,7 @@ Finally, it shoots those raw bits across a UDP socket. We use UDP because it is 
 Why is this valuable?
 Normally, software developers never have to think about this stuff; they just use a library to send data. By writing these layers out manually, you are proving you understand how machines physically and logically communicate on a foundational level. It's a fantastic talking point for a portfolio or an interview.
 
-Team Member 
+## Team Members
 
 Harsh Verma 22065040
 
