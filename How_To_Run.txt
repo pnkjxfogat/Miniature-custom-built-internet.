@@ -1,0 +1,13 @@
+How to Test This Architecture
+Open Terminal 1 and run: python network_stack.py. Type 1 to start the Receiver. It will sit and listen.
+
+Open Terminal 2 and run: python network_stack.py. Type 2 to start the Sender.
+
+Type a message like "Hello World" and hit enter.
+
+What you will see:
+Because the error_probability in the Physical Layer is set to 0.01 (1%), occasionally a bit will flip during transmission.
+
+If the transmission is clean, the Receiver's Data Link layer will calculate the parity, match it, and pass the packet up to the Network layer to print the message.
+
+If a bit flips, the Data Link layer will spot the error, print a warning (Parity check failed!), and drop the frame to protect the network.
