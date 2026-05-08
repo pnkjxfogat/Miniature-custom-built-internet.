@@ -26,8 +26,12 @@ Normally, software developers never have to think about this stuff; they just us
 
 Team Member 
 
-Harsh Verma 
-Pranshu Kureel
-Puneet Kumar
-Archit Thakur
-Pankaj Fogat
+Harsh Verma 22065040
+
+Pranshu Kureel 22045152
+
+Puneet Kumar 22065073
+
+Archit Thakur 22065018
+
+Pankaj Fogat 22014018
